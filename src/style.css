@@ -1,0 +1,22 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.App {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 100vw;
+	height: 100vh;
+	background: brown;
+}
+
+.form-content {
+	display: flex;
+	flex-direction: column;
+	width: 50vw;
+	height: 80vh;
+	background: chocolate;
+}
